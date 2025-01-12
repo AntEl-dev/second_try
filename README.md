@@ -1,3 +1,3 @@
 # eduson-academy
 
-## ncietry
+## nicetry
